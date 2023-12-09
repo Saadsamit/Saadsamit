@@ -3,7 +3,7 @@
 # Hi there 👋
 
 
-My name is **Md Samit Intesar** and I'm from **Chattogram, Bangladesh**. I work as a **Front-End Developer.** I Know **Html**, **Css**, **Tailwind Css**, **Javascript**, **React**, **Express**, **MongoDB** And Now I am Exploring **Next.js.** My goal is to make things easily understandable and explore ways to enhance user convenience.
+My name is **Md Samit Intesar** and I'm from **Chattogram, Bangladesh**. I work as a **Junior MERN Stack Developer.** I Know **Html**, **Css**, **Tailwind Css**, **Javascript**, **React**, **Express**, **MongoDB** And Now I am Exploring **Next.js.** My goal is to make things easily understandable and explore ways to enhance user convenience.
  
 
 # Skills
