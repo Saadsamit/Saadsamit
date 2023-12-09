@@ -1,5 +1,3 @@
-
-
 <code><div style="text-align:center"><img src="./image/github_banner.png"></div></code>
 # Hi there 👋
 
