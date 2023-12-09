@@ -15,7 +15,11 @@ My name is **Md Samit Intesar** and I'm from **Chattogram, Bangladesh**. I work 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev)
 
-# Status
+# Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Saadsamit&theme=material&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600" width="800"/>
+
+# Profile Summary
 
 
 <div align="center">
@@ -23,13 +27,21 @@ My name is **Md Samit Intesar** and I'm from **Chattogram, Bangladesh**. I work 
 
 </div>
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadsamit&theme=algolia" width="900"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadsamit&theme=algolia" width="800"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saadsamit&theme=algolia" width="400"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadsamit&theme=algolia" width="400"/>
 
 </div>
-
 </div>
 
+
+# Reach me out
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samit-intesar)
+
+### Reach me on Email: saadsamit64@gmail.com
+</div>
