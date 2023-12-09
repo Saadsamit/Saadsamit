@@ -13,16 +13,21 @@ My name is **Md Samit Intesar** and I'm from **Chattogram, Bangladesh**. I work 
 
 # Tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev)
 
 # Status
 
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadsamit&theme=algolia)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadsamit&theme=algolia)
+</div>
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadsamit&theme=algolia" width="900"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saadsamit&theme=algolia" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadsamit&theme=algolia" width="400"/>
 
 </div>
 
